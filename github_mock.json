@@ -1,0 +1,46 @@
+[
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-08-01T12:34:56Z",
+            "message": "Initial commit",
+            "repository": {
+                "name": "user1-repo",
+                "owner": "user1"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-07-26T14:21:45Z",
+            "message": "Added new feature",
+            "repository": {
+                "name": "user1-repo2",
+                "owner": "user1"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-07-18T09:10:11Z",
+            "message": "Fixed bug",
+            "repository": {
+                "name": "another-repo",
+                "owner": "another-user"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-07-01T14:21:45Z",
+            "message": "Added new feature",
+            "repository": {
+                "name": "user1-repo3",
+                "owner": "user1"
+            }
+        }
+    }
+]

@@ -1,0 +1,552 @@
+[
+    {
+        "username": "user2",
+        "commit": {
+            "date": "2023-10-06T05:02:46Z",
+            "message": "Improved documentation",
+            "repository": {
+                "name": "user3-repo",
+                "owner": "user3"
+            }
+        }
+    },
+    {
+        "username": "user3",
+        "commit": {
+            "date": "2023-01-22T19:33:23Z",
+            "message": "Fixed bug",
+            "repository": {
+                "name": "user2-repo",
+                "owner": "user2"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-07-15T05:20:52Z",
+            "message": "Initial commit",
+            "repository": {
+                "name": "user3-repo",
+                "owner": "user3"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-09-10T16:36:01Z",
+            "message": "Refactored code",
+            "repository": {
+                "name": "user3-repo",
+                "owner": "user3"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-12-16T10:41:32Z",
+            "message": "Added new feature",
+            "repository": {
+                "name": "another-user-repo",
+                "owner": "another-user"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-12-03T03:52:29Z",
+            "message": "Added new feature",
+            "repository": {
+                "name": "user3-repo",
+                "owner": "user3"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-01-04T21:05:59Z",
+            "message": "Fixed bug",
+            "repository": {
+                "name": "user3-repo",
+                "owner": "user3"
+            }
+        }
+    },
+    {
+        "username": "user3",
+        "commit": {
+            "date": "2023-10-15T10:18:24Z",
+            "message": "Refactored code",
+            "repository": {
+                "name": "user3-repo",
+                "owner": "user3"
+            }
+        }
+    },
+    {
+        "username": "user2",
+        "commit": {
+            "date": "2023-12-27T18:34:48Z",
+            "message": "Refactored code",
+            "repository": {
+                "name": "user2-repo",
+                "owner": "user2"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-05-29T11:35:31Z",
+            "message": "Initial commit",
+            "repository": {
+                "name": "user1-repo",
+                "owner": "user1"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-05-07T15:11:09Z",
+            "message": "Initial commit",
+            "repository": {
+                "name": "user3-repo",
+                "owner": "user3"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-08-21T03:13:25Z",
+            "message": "Refactored code",
+            "repository": {
+                "name": "user3-repo",
+                "owner": "user3"
+            }
+        }
+    },
+    {
+        "username": "user3",
+        "commit": {
+            "date": "2023-05-30T00:24:37Z",
+            "message": "Refactored code",
+            "repository": {
+                "name": "user3-repo",
+                "owner": "user3"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-07-28T23:28:00Z",
+            "message": "Refactored code",
+            "repository": {
+                "name": "user1-repo",
+                "owner": "user1"
+            }
+        }
+    },
+    {
+        "username": "user3",
+        "commit": {
+            "date": "2023-05-08T04:23:42Z",
+            "message": "Refactored code",
+            "repository": {
+                "name": "user1-repo",
+                "owner": "user1"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-03-10T05:03:15Z",
+            "message": "Refactored code",
+            "repository": {
+                "name": "user3-repo",
+                "owner": "user3"
+            }
+        }
+    },
+    {
+        "username": "user2",
+        "commit": {
+            "date": "2023-08-17T17:03:37Z",
+            "message": "Fixed bug",
+            "repository": {
+                "name": "user2-repo",
+                "owner": "user2"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-04-21T16:38:09Z",
+            "message": "Added new feature",
+            "repository": {
+                "name": "another-user-repo",
+                "owner": "another-user"
+            }
+        }
+    },
+    {
+        "username": "user3",
+        "commit": {
+            "date": "2023-03-08T23:47:21Z",
+            "message": "Fixed bug",
+            "repository": {
+                "name": "another-user-repo",
+                "owner": "another-user"
+            }
+        }
+    },
+    {
+        "username": "user2",
+        "commit": {
+            "date": "2023-05-26T06:03:11Z",
+            "message": "Improved documentation",
+            "repository": {
+                "name": "user2-repo",
+                "owner": "user2"
+            }
+        }
+    },
+    {
+        "username": "user2",
+        "commit": {
+            "date": "2023-04-25T00:37:05Z",
+            "message": "Added new feature",
+            "repository": {
+                "name": "user1-repo",
+                "owner": "user1"
+            }
+        }
+    },
+    {
+        "username": "user2",
+        "commit": {
+            "date": "2023-06-22T01:18:40Z",
+            "message": "Refactored code",
+            "repository": {
+                "name": "another-user-repo",
+                "owner": "another-user"
+            }
+        }
+    },
+    {
+        "username": "user3",
+        "commit": {
+            "date": "2023-07-24T00:54:04Z",
+            "message": "Added new feature",
+            "repository": {
+                "name": "user1-repo",
+                "owner": "user1"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-11-21T06:00:14Z",
+            "message": "Improved documentation",
+            "repository": {
+                "name": "user1-repo",
+                "owner": "user1"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-11-09T16:32:59Z",
+            "message": "Refactored code",
+            "repository": {
+                "name": "another-user-repo",
+                "owner": "another-user"
+            }
+        }
+    },
+    {
+        "username": "user3",
+        "commit": {
+            "date": "2023-10-29T00:47:58Z",
+            "message": "Added new feature",
+            "repository": {
+                "name": "user3-repo",
+                "owner": "user3"
+            }
+        }
+    },
+    {
+        "username": "user3",
+        "commit": {
+            "date": "2023-10-02T05:40:20Z",
+            "message": "Added new feature",
+            "repository": {
+                "name": "another-user-repo",
+                "owner": "another-user"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-02-02T15:51:45Z",
+            "message": "Added new feature",
+            "repository": {
+                "name": "user2-repo",
+                "owner": "user2"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-09-11T17:15:57Z",
+            "message": "Refactored code",
+            "repository": {
+                "name": "another-user-repo",
+                "owner": "another-user"
+            }
+        }
+    },
+    {
+        "username": "user3",
+        "commit": {
+            "date": "2023-06-10T08:30:18Z",
+            "message": "Fixed bug",
+            "repository": {
+                "name": "another-user-repo",
+                "owner": "another-user"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-11-23T17:44:09Z",
+            "message": "Added new feature",
+            "repository": {
+                "name": "user3-repo",
+                "owner": "user3"
+            }
+        }
+    },
+    {
+        "username": "user2",
+        "commit": {
+            "date": "2023-11-14T00:56:20Z",
+            "message": "Improved documentation",
+            "repository": {
+                "name": "user1-repo",
+                "owner": "user1"
+            }
+        }
+    },
+    {
+        "username": "user2",
+        "commit": {
+            "date": "2023-09-01T15:03:21Z",
+            "message": "Improved documentation",
+            "repository": {
+                "name": "user1-repo",
+                "owner": "user1"
+            }
+        }
+    },
+    {
+        "username": "user3",
+        "commit": {
+            "date": "2023-06-29T11:03:19Z",
+            "message": "Improved documentation",
+            "repository": {
+                "name": "user1-repo",
+                "owner": "user1"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-12-28T06:10:43Z",
+            "message": "Fixed bug",
+            "repository": {
+                "name": "another-user-repo",
+                "owner": "another-user"
+            }
+        }
+    },
+    {
+        "username": "user3",
+        "commit": {
+            "date": "2023-03-09T19:07:41Z",
+            "message": "Initial commit",
+            "repository": {
+                "name": "user2-repo",
+                "owner": "user2"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-03-20T11:32:04Z",
+            "message": "Added new feature",
+            "repository": {
+                "name": "another-user-repo",
+                "owner": "another-user"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-05-12T15:35:18Z",
+            "message": "Initial commit",
+            "repository": {
+                "name": "user2-repo",
+                "owner": "user2"
+            }
+        }
+    },
+    {
+        "username": "user3",
+        "commit": {
+            "date": "2023-02-08T01:14:41Z",
+            "message": "Refactored code",
+            "repository": {
+                "name": "user2-repo",
+                "owner": "user2"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-03-21T07:24:01Z",
+            "message": "Refactored code",
+            "repository": {
+                "name": "another-user-repo",
+                "owner": "another-user"
+            }
+        }
+    },
+    {
+        "username": "user2",
+        "commit": {
+            "date": "2023-07-13T04:59:19Z",
+            "message": "Initial commit",
+            "repository": {
+                "name": "user2-repo",
+                "owner": "user2"
+            }
+        }
+    },
+    {
+        "username": "user2",
+        "commit": {
+            "date": "2023-04-20T17:25:47Z",
+            "message": "Added new feature",
+            "repository": {
+                "name": "another-user-repo",
+                "owner": "another-user"
+            }
+        }
+    },
+    {
+        "username": "user3",
+        "commit": {
+            "date": "2023-11-18T06:40:03Z",
+            "message": "Fixed bug",
+            "repository": {
+                "name": "user1-repo",
+                "owner": "user1"
+            }
+        }
+    },
+    {
+        "username": "user2",
+        "commit": {
+            "date": "2023-07-29T21:03:45Z",
+            "message": "Improved documentation",
+            "repository": {
+                "name": "another-user-repo",
+                "owner": "another-user"
+            }
+        }
+    },
+    {
+        "username": "user2",
+        "commit": {
+            "date": "2023-06-10T03:32:27Z",
+            "message": "Refactored code",
+            "repository": {
+                "name": "user3-repo",
+                "owner": "user3"
+            }
+        }
+    },
+    {
+        "username": "user2",
+        "commit": {
+            "date": "2023-03-15T03:40:00Z",
+            "message": "Fixed bug",
+            "repository": {
+                "name": "user2-repo",
+                "owner": "user2"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-10-22T01:37:38Z",
+            "message": "Added new feature",
+            "repository": {
+                "name": "user1-repo",
+                "owner": "user1"
+            }
+        }
+    },
+    {
+        "username": "user2",
+        "commit": {
+            "date": "2023-01-07T03:37:32Z",
+            "message": "Added new feature",
+            "repository": {
+                "name": "another-user-repo",
+                "owner": "another-user"
+            }
+        }
+    },
+    {
+        "username": "user3",
+        "commit": {
+            "date": "2023-05-23T02:26:57Z",
+            "message": "Improved documentation",
+            "repository": {
+                "name": "user2-repo",
+                "owner": "user2"
+            }
+        }
+    },
+    {
+        "username": "user1",
+        "commit": {
+            "date": "2023-02-23T23:49:29Z",
+            "message": "Initial commit",
+            "repository": {
+                "name": "user2-repo",
+                "owner": "user2"
+            }
+        }
+    }
+]

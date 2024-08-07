@@ -1,0 +1,11 @@
+{
+  "users": [
+      { "id": 1, 
+        "username": "user1", 
+        "github_rank": 560 
+    },
+      { "id": 2, 
+        "name": "Bob", 
+        "email": "bob@example.com" }
+  ]
+}
